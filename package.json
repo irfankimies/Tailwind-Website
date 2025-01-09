@@ -97,7 +97,7 @@
     "yaml": "^2.7.0"
   },
   "scripts": {
-    "watch": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+    "watch": "npx tailwindcss -i ./input.css -o ./output.css --watch"
   },
   "keywords": [],
   "author": "",
